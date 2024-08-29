@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Mos
 
-I'am a student at [42 Bangkok](https://www.42bangkok.com/).
+I am a student at [42 Bangkok](https://www.42bangkok.com/).
 
 I interested in Web Development.
 
