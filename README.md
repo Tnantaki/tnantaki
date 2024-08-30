@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 ---
 
-### My Github Stats
+### My 42 Stats
 
 [![Tnantaki's 42 stats](https://badge.mediaplus.ma/darkgray/tnantaki)](https://github.com/oakoudad/badge42)
