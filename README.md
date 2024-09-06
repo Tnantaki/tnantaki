@@ -1,8 +1,8 @@
-## Hi there 👋 My name is Mos
+## Hi there 👋 My name is Mos Tanin
 
-I am a student at [42 Bangkok](https://www.42bangkok.com/).
-
-I interested in Web Development.
+- I have a degree in Civil Engineering from [RMUTR](https://www.rmutr.ac.th/).
+- I am a student at [42 Bangkok](https://www.42bangkok.com/).
+- I interested in Web Development.
 
 ### Languages
 
