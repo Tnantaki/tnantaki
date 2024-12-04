@@ -10,7 +10,7 @@
 
 ### Framwork & Library
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react&perline=10)](https://skillicons.dev)
 
 ### Tools
 
